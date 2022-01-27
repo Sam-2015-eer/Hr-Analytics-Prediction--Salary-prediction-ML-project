@@ -1,2 +1,2 @@
-# Hr-Analtics-ML-project
-Hr person wants to quick estimate the salary of the employee based on various factors of employee
+# Hr-Analytics-Prediction:-Salary prediction-ML project
+Predictive HR Analytics:Hr analytics equips HR leaders with the necessary data to improve HR functions and the employee experience. With the continuous influx of tech innovations challenging the workplace, managing employees intelligently and supporting them through the demanding employee lifecycle is essential. Enhancing HR strategies through HR analytics can promote job satisfaction and lead to a healthy company culture comprised of engaged individuals.
